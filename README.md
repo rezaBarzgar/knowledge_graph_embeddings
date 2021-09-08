@@ -1,5 +1,5 @@
 # knowledge_graph_embeddings
-This repository contains 5 different embeddings from SNOMED dataset knowledge graph which created using OpenKE package
+This repository contains 5 different embeddings from SNOMED dataset knowledge graph which is created by using OpenKE package
 ## embeddings list
 - TransE
   - [link](https://drive.google.com/file/d/1-48DE0eKsx-b2Mx7R1jDy9yk9T0czmvs/view?usp=sharing)
