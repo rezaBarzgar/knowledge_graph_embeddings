@@ -17,4 +17,4 @@ This repository contains 5 different embeddings from **SNOMED** dataset knowledg
   - [link](https://drive.google.com/file/d/1tZag1fcPHT8phWpav9XxfkFY40g1K-xt/view?usp=sharing)
   - **accuracy: 0.4878**
 ### Code
-because source code contains large files, we were unable to upload it on git. you view sorce code from [this link](https://drive.google.com/drive/folders/1KmccoJM6I3MSfbS46MiCFWKOoVh6z7wB?usp=sharing).
+because source code contains large files, we were unable to upload it on git. you can see the sorce code from [this link](https://drive.google.com/drive/folders/1KmccoJM6I3MSfbS46MiCFWKOoVh6z7wB?usp=sharing).
