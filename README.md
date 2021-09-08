@@ -1,5 +1,5 @@
 # knowledge_graph_embeddings
-This repository contains 5 different embeddings from **SNOMED** dataset knowledge graphs which is created by using deep learning models from [**OpenKE package**](https://github.com/thunlp/OpenKE)
+This repository contains 5 different embeddings from **SNOMED** dataset knowledge graphs which is created by using [**OpenKE package**](https://github.com/thunlp/OpenKE)
 ## embeddings list
 - TransE
   - [link](https://drive.google.com/file/d/1-48DE0eKsx-b2Mx7R1jDy9yk9T0czmvs/view?usp=sharing)
@@ -16,3 +16,5 @@ This repository contains 5 different embeddings from **SNOMED** dataset knowledg
 - Distmult 
   - [link](https://drive.google.com/file/d/1tZag1fcPHT8phWpav9XxfkFY40g1K-xt/view?usp=sharing)
   - **accuracy: 0.4878**
+### Code
+because source code contains large files, we were unable to upload it on git. you view sorce code from [this link](https://drive.google.com/drive/folders/1KmccoJM6I3MSfbS46MiCFWKOoVh6z7wB?usp=sharing).
